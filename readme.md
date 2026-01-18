@@ -24,7 +24,7 @@
 - [SQLite Viewer for VSCode](https://marketplace.visualstudio.com/items?itemName=qwtel.sqlite-viewer)
 
 ## Web
-
+- [VizSQL] (https://www.vizsql.io/sqlite/) — Instant SQLite browser that **automatically generates ER diagrams** via drag-and-drop. Features reverse engineering of schemas, and DDL generation. 100% private and WASM-based.
 - [sqliteviz](https://github.com/lana-k/sqliteviz) - Instant offline SQL-powered data visualisation in your browser
 - [sqlite-viewer](https://sqliteviewer.app) - Web-based SQLite Explorer
 - [sqlite-viewer (2)](https://inloop.github.io/sqlite-viewer/) - View SQLite file online
